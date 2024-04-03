@@ -1,3 +1,4 @@
+package triangleClassifier;
 public class Triangle {
     int a;
     int b;
